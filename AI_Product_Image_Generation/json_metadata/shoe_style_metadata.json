@@ -1,0 +1,44 @@
+{
+  "product": {
+    "type": "formal leather shoe",
+    "color": "black",
+    "material": "matte leather"
+  },
+
+  "photography": {
+    "style": "professional ecommerce catalog",
+    "background": "light gray studio background",
+    "lighting": "soft diffused studio lighting",
+    "shadow": "soft realistic shadow",
+    "focus": "sharp focus",
+    "quality": "high resolution"
+  },
+
+  "camera_angles": [
+    "side profile",
+    "top view",
+    "rear view",
+    "outsole view",
+    "macro texture close-up",
+    "three-quarter perspective",
+    "pair composition"
+  ],
+
+  "composition": {
+    "alignment": "centered",
+    "spacing": "balanced negative space",
+    "presentation": "minimal premium catalog layout"
+  },
+
+  "texture_rendering": {
+    "leather_texture": "highly visible",
+    "sole_texture": "detailed",
+    "stitching_visibility": "enhanced"
+  },
+
+  "output": {
+    "consistency": true,
+    "commercial_quality": true,
+    "catalog_ready": true
+  }
+}

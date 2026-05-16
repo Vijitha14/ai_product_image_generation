@@ -1,0 +1,6 @@
+1. Selected a professional formal shoe product as the subject.
+2. Generated multiple professional product photography angles using AI image generation workflows.
+3. Maintained consistent lighting, composition, shadows, and background styling.
+4. Extracted visual photography characteristics into structured JSON metadata.
+5. Used JSON metadata for prompt engineering and style consistency.
+6. Produced ecommerce-ready catalog images including side profile, outsole, top view, rear view, macro detail, and pair composition outputs.

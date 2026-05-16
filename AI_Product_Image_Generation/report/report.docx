@@ -1,0 +1,159 @@
+Use this for your `report.docx` 😌
+Just copy-paste into Word and save inside the `report` folder.
+
+---
+
+# AI-Based Professional Product Image Generation using JSON Style Extraction
+
+## Task Code
+
+AI-IMG-01
+
+---
+
+# Task Name
+
+AI-Based Professional Product Image Generation using JSON Style Extraction & AI Workflow
+
+---
+
+# Task Summary
+
+This task focused on generating professional ecommerce-style product images using AI image generation workflows and structured JSON-based photography style extraction.
+
+The objective was to analyze professional product photography styles and recreate consistent commercial-quality outputs using structured metadata and prompt engineering techniques.
+
+The project explored:
+
+* Product photography analysis
+* JSON-based visual metadata extraction
+* AI prompt engineering
+* Multi-angle product image generation
+* Ecommerce catalog-style presentation
+* Texture and lighting consistency
+
+The final outputs included multiple professional product photography perspectives such as:
+
+* Side profile
+* Rear view
+* Top view
+* Outsole view
+* Close-up texture shot
+* Pair composition
+* Three-quarter perspective
+
+---
+
+# Approach
+
+The workflow was implemented using an AI-assisted imaging pipeline.
+
+The process involved:
+
+1. Selecting a professional formal shoe product.
+2. Generating multiple product photography angles.
+3. Maintaining consistent lighting, framing, shadows, and background composition.
+4. Extracting visual characteristics into structured JSON metadata.
+5. Using JSON metadata for prompt engineering and style consistency.
+6. Producing ecommerce-ready catalog outputs.
+
+The workflow focused on understanding how structured metadata can help AI systems recreate professional photography styles consistently.
+
+---
+
+# JSON Metadata Extraction
+
+The product photography characteristics were converted into structured JSON format containing:
+
+* Product details
+* Lighting setup
+* Camera angles
+* Composition rules
+* Texture rendering properties
+* Output quality specifications
+
+The metadata helped maintain consistency across all generated outputs.
+
+---
+
+# AI Prompt Engineering
+
+Structured prompts were created using extracted metadata to guide AI image generation.
+
+The prompts controlled:
+
+* Lighting style
+* Camera perspective
+* Background appearance
+* Texture visibility
+* Composition quality
+* Commercial presentation standards
+
+This improved the realism and consistency of generated images.
+
+---
+
+# Generated Outputs
+
+The following professional product images were generated successfully:
+
+* Side profile product shot
+* Rear heel perspective
+* Top-down composition
+* Outsole photography
+* Macro leather texture close-up
+* Pair composition
+* Angled three-quarter product shot
+
+All outputs maintained:
+
+* Consistent studio lighting
+* Realistic shadows
+* High texture detail
+* Professional ecommerce appearance
+* Balanced composition
+
+---
+
+# Output Summary
+
+The task successfully demonstrated how AI systems can generate professional catalog-quality product images using structured visual metadata and prompt engineering workflows.
+
+Key achievements:
+
+* Professional ecommerce product photography generation
+* JSON-based photography style extraction
+* Consistent multi-angle product visualization
+* Realistic material and texture rendering
+* Controlled AI image generation workflow
+
+The project also provided exposure to:
+
+* Computer Vision concepts
+* AI image generation systems
+* Multimodal workflows
+* Prompt engineering
+* Synthetic media generation
+* Ecommerce visual automation
+
+---
+
+# Conclusion
+
+This task demonstrated how AI-powered workflows can recreate professional product photography standards using structured JSON metadata and prompt engineering techniques.
+
+The workflow successfully generated high-quality commercial product images while maintaining consistency in:
+
+* Lighting
+* Composition
+* Background styling
+* Texture rendering
+* Camera perspectives
+
+The project highlighted the growing role of AI in ecommerce imaging automation and professional visual content generation.
+
+---
+
+# Status
+
+Completed ✅
